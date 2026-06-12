@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 27 29.92">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #532d13;
+      }
+    </style>
+  </defs>
+  <g id="design">
+    <g>
+      <rect class="cls-1" x="7.09" y="0" width="12.86" height="18.6" transform="translate(27.03 18.6) rotate(-180)"/>
+      <polygon class="cls-1" points="27 17.51 13.5 29.92 0 17.51 27 17.51"/>
+    </g>
+  </g>
+</svg>
