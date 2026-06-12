@@ -1213,7 +1213,7 @@ https://github.com/q-jutaku/coding_rule/blob/main/css.md#sass_utilscss
     transition: opacity 0.55s ease-out;
   }
   .idemitsu40th-right-bgDeco_navItem + .idemitsu40th-right-bgDeco_navItem {
-    margin-top: calc(1.6428571429vw);
+    margin-top: calc(1.242857vw);
   }
   .idemitsu40th-right-bgDeco_illust {
     position: relative;
@@ -1223,7 +1223,7 @@ https://github.com/q-jutaku/coding_rule/blob/main/css.md#sass_utilscss
     max-width: 286.4px;
     width: calc(20.4571428571vw);
     margin-left: calc(-1.5vw);
-    margin-top: calc(3.5714285714vw);
+    margin-top: calc(3.1714285714vw);
     opacity: 1;
     transition: opacity 0.55s ease-out;
     transition-delay: 0.42s;
